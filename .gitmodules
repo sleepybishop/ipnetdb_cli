@@ -1,0 +1,3 @@
+[submodule "mmdb"]
+	path = mmdb
+	url = https://github.com/klondi/mmdb
